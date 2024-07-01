@@ -1,6 +1,6 @@
 package practiceDSAapc;
 
-public class LinearSearchArrayForString {
+public class Array_Linear_Search_ArrayForString {
 
 public static void main(String[] args) {
 		

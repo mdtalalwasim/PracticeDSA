@@ -2,7 +2,7 @@ package practiceDSAapc;
 
 import java.util.Iterator;
 
-public class DeletionOperationInArray {
+public class Array_Deletion_Operation_Array {
 
 	public static void main(String[] args) {
 

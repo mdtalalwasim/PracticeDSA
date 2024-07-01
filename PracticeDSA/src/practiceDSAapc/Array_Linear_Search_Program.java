@@ -1,6 +1,6 @@
 package practiceDSAapc;
 
-public class LinearSearchArray {
+public class Array_Linear_Search_Program {
 
 	private static int linearSearch(int[] numbers, int key) {
 

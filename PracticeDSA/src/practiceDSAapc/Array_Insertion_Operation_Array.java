@@ -2,7 +2,7 @@ package practiceDSAapc;
 
 import java.util.Arrays;
 
-public class InsertionOperationArrayProgram {
+public class Array_Insertion_Operation_Array {
 
 	public static void main(String[] args) {
 		
