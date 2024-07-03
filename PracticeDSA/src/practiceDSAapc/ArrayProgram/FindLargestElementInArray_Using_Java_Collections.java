@@ -17,7 +17,7 @@ public class FindLargestElementInArray_Using_Java_Collections {
 		for (int i = 0; i < myArray.length; i++) {
 			list.add(myArray[i]);
 		}
-		System.out.println("Largest Element : " + Collections.max(list));
+		System.out.println("Largest Element in the array : " + Collections.max(list));
 
 	}
 
