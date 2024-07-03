@@ -1,4 +1,4 @@
-package practiceDSAapc;
+package practiceDSAapc.ArrayProgram;
 
 public class Array_Reverse_Program {
 

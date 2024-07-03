@@ -1,4 +1,4 @@
-package practiceDSAapc;
+package practiceDSAapc.ArrayProgram;
 
 import java.util.Arrays;
 
