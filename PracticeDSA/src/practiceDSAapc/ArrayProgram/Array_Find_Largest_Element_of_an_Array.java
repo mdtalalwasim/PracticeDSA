@@ -1,6 +1,6 @@
 package practiceDSAapc.ArrayProgram;
 
-public class Array_Find_Largest_Elemnet_Array {
+public class Array_Find_Largest_Element_of_an_Array {
 
 	public static int getLargest(int numbers[]) {
 		int largestNumber = Integer.MIN_VALUE; // -infinity value
